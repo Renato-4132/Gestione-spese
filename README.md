@@ -18,7 +18,7 @@
                 • Per esportare le statistiche del giorno selezionato, usa 'Esporta giorno da Calendario'
                 • Per esportare i dati di un mese o di un anno specifico, seleziona mese e anno dal riquadro sinistro e poi usa i pulsanti 'Esporta mese da estratto' o 'Esporta anno da estratto'
                 • Questo programma si basa su Python. Puoi scaricare Python dal sito ufficiale: https://www.python.org/downloads/
-              • I plugin python sono autoinstallanti, ma per buona promemoria, allego come installarli manualmente.
+                • I plugin python sono autoinstallanti, ma per buona promemoria, allego come installarli manualmente.
                  
                  Su Linux:\n"
                   Apri il terminale e digita:
